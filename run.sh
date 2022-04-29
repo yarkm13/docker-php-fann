@@ -1,0 +1,1 @@
+docker container run --rm -v $(pwd)/app:/app/ nn-php-cli php /app/script.php
