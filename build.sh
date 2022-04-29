@@ -1,1 +1,3 @@
-docker build -t nn-php-cli .
+#!/bin/bash
+
+docker build -t fann-php-cli .
