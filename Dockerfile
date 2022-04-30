@@ -1,4 +1,5 @@
-FROM php:7.4-cli
+ARG phpver
+FROM php:${phpver}
 
 RUN apt-get update \
     && apt-get install -y --yes libfann-dev \
