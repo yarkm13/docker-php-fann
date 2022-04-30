@@ -1,5 +1,5 @@
 # docker-php-fann
-Docker container for PHP FANN
+Docker container for PHP FANN Fast Artificial Neural Network
 
 Place your FANN related PHP code into `./app` dir
 
